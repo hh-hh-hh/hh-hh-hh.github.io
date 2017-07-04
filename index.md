@@ -32,8 +32,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 <script src="https://gist.github.com/hh-hh-hh/1bb530522447b146f83d4af624cfed49.js"></script>
 
-### D3.js from Gist
+### D3.js 単純なグラフ　from Gist
 <script src="https://gist.github.com/hh-hh-hh/07dc2344eafcfa0eefc3154ecb47ebb1.js"></script>
+
+### D3.js from Gist
+<script src="https://gist.github.com/hh-hh-hh/7a4d4b492096e23b4f8c684567ae246c.js"></script>
 
 ### Jekyll Themes
 
